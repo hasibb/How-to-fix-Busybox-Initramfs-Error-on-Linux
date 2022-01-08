@@ -1,0 +1,5 @@
+This problem you may find when your file system is having an error. Integrity: Problem loading X.509 certificate -65 usually appears during booting in Linux. 
+It might prevent you from login and using your Linux.The error might occur for dual boot systems and if you have Linux you need to solve this error or you will 
+unable to use Linux from your machine.
+
+Please check [busybox.pdf] file will help you more.
